@@ -1,0 +1,53 @@
+commit ba495772eed13aaf7dbd0dc165a24519f31e1a34
+Author: kmpotter2 <97268901+kmpotter2@users.noreply.github.com>
+Date:   Sun Jun 26 16:40:56 2022 -0700
+
+    Update app.py
+    
+    I updated the if statement under the "save_qualifying_loans" function to include an else statement if the user decides not to save their information to a csv file. It prints: "Okay, your file has NOT been saved!"
+
+commit a790d73bc68642e4f704df01db654992280fc230
+Author: kmpotter2 <97268901+kmpotter2@users.noreply.github.com>
+Date:   Sun Jun 26 16:38:53 2022 -0700
+
+    Update app.py
+    
+    Under the function "save_qualifying_loans" I added a if statement that determines if the user says yes to saving their file, then the "save_csv" function runs and a print statement says that their file has been saved
+
+commit fcc4d4e4b1021f0e20e21670742a735b2b124ba9
+Author: kmpotter2 <97268901+kmpotter2@users.noreply.github.com>
+Date:   Sun Jun 26 16:37:04 2022 -0700
+
+    Update app.py
+    
+    under the function "save_qualifying_loans" I added a variable that asks the user if they would like to save their qualifying loan data to a csv file
+
+commit 72240c05059d7c46eb450d34a74f5e0eeb6edbe2
+Author: kmpotter2 <97268901+kmpotter2@users.noreply.github.com>
+Date:   Sun Jun 26 16:34:04 2022 -0700
+
+    Update app.py
+    
+    Created a function that is able to save a user's loan qualifying data to a csv file labeled "qualifying_data.csv"
+
+commit 68b0b213827adb018833785327f6abfe6f51b705
+Author: kmpotter2 <97268901+kmpotter2@users.noreply.github.com>
+Date:   Sun Jun 26 16:27:07 2022 -0700
+
+    Update app.py
+    
+    Added the import at the top to the csv.
+
+commit 949c840988146d47f935ecd8777a879d37d30ac6
+Author: kmpotter2 <97268901+kmpotter2@users.noreply.github.com>
+Date:   Sun Jun 26 16:15:53 2022 -0700
+
+    Add files via upload
+    
+    initial file upload. Determines what loans someone qualifies for.
+
+commit 461df472607c81ddb51e4262f7c7e32b1f24d549
+Author: kmpotter2 <97268901+kmpotter2@users.noreply.github.com>
+Date:   Sun Jun 26 10:46:20 2022 -0700
+
+    Initial commit
