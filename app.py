@@ -116,7 +116,9 @@ def save_qualifying_loans(qualifying_loans):
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
     save_file = questionary.confirm("Would you like to save your qualifying loans?").ask()
-    
+    if save_file:
+        save_csv(qualifying_loans)
+        print("Okay your file has been saved!")
 
 
 def run():
