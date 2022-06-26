@@ -119,6 +119,8 @@ def save_qualifying_loans(qualifying_loans):
     if save_file:
         save_csv(qualifying_loans)
         print("Okay your file has been saved!")
+    else:
+        print("Okay, your file has NOT been saved!")
 
 
 def run():
