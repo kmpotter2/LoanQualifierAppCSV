@@ -1,4 +1,4 @@
-# Project Title
+# Loan Qualifier Application
 
 This application uses the command line interface to determine if a user is elligible for a loan based on obtained bank data from a csv file labeled 'daily_rate_sheet'. The application asked the users questions to evaluate their loan eligibility and then determines the number of their qualifying loans. The user is able to save a list of their qualifying loans to a new csv labeled 'qualifying_data.csv'.
 
