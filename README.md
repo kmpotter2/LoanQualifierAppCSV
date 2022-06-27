@@ -40,15 +40,15 @@ Once the command is run you will see these prompts:
 Once a user has viewed their number of loans. They can save their bank data to a csv file:
 ![Bank Data List](save.png)
 
-    If they choose yes, their data will be saved to a csv file named "qualifying_data.csv"
+If they choose yes, their data will be saved to a csv file named 'qualifying_data.csv'
 ---
 
 ## Contributors
 
 In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
 Kristen Potter:
-    Email: kristendmr@msn.com
-    LinkedIn Url: [Kristen Potter Linkedin](https://www.linkedin.com/in/kristen-potter-b17826113)
+* Email: kristendmr@msn.com
+* LinkedIn Url: [Kristen Potter Linkedin](https://www.linkedin.com/in/kristen-potter-b17826113)
 
 ---
 
