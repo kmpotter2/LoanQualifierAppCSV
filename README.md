@@ -45,7 +45,6 @@ If they choose yes, their data will be saved to a csv file named 'qualifying_dat
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
 Kristen Potter:
 * Email: kristendmr@msn.com
 * LinkedIn Url: [Kristen Potter Linkedin](https://www.linkedin.com/in/kristen-potter-b17826113)
