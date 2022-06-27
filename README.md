@@ -40,7 +40,9 @@ Once the command is run you will see these prompts:
 Once a user has viewed their number of loans. They can save their bank data to a csv file:
 ![Bank Data List](save.png)
 
+
 If they choose yes, their data will be saved to a csv file named 'qualifying_data.csv'
+
 ---
 
 ## Contributors
